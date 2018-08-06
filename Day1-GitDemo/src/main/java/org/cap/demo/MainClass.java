@@ -7,4 +7,13 @@ public class MainClass {
 
 	}
 
+ public static void number()
+ {
+	 for(int i=1;i<=10;)
+	 {
+		 System.out.println(i);
+		 i++;
+	 }
+ }
+	
 }
